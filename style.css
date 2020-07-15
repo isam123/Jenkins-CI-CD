@@ -1,0 +1,13 @@
+.active {
+    background-color: aqua;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding-top: 20px;
+}
+
+.post {
+    padding: 5px;
+}
